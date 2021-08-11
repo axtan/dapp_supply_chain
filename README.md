@@ -15,6 +15,13 @@ assert.web3Events(result, [{ event: 'Harvested' }]);
 I'm usign truffle-hdwallet-provider and the project is published in Rinkeby network.
 
 
+Main versions:
+Node v10.19.0
+Truffle v5.4.3
+web3@1.2.1 
+
+
+
 3. IPFS
 
 Ipfs is not used in this project.
